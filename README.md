@@ -14,9 +14,10 @@ for i in range(1,tamSeq1):
         M[i][j] = max(A,B,C)
 ```
 
-##**Requisitos da atividade**
+**Requisitos da atividade**
 1.  O repositório deve conter um arquivo README com título, texto formatado (itálico e negrito), trecho de código em qualquer linguagem de programação, listagem de tópicos (numerada ou não),  hyperlinks e imagem.
 2.  O repositório deve conter, pelo menos, 3 commits.
+3.  Enviar o link do Repositório pelo *campus virtual*
 
 [Entender sobre *Markdown*](https://guides.github.com/features/mastering-markdown/)
 
