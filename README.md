@@ -20,4 +20,4 @@ for i in range(1,tamSeq1):
 
 [Entender sobre *Markdown*](https://guides.github.com/features/mastering-markdown/)
 
-![Use linux]()
+![Use linux](https://github.com/RenatoPereira2600/AtividadePratica5/blob/main/6b05859c-6659-4ac2-8a59-9fd5a107d8f8.jpg)
